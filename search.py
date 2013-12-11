@@ -1,8 +1,8 @@
-###
-### search.py
-###
 
-# Change this to use the new WebCorpus type.
+### search.py
+
+
+
 
 def lookup(windex, keyword):
     if keyword in windex.index:

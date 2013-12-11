@@ -1,6 +1,6 @@
-###
+
 ### webindex.py
-###
+
 
 class WebCorpus:
     def __init__(self):
